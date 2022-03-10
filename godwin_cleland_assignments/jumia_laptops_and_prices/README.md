@@ -1,0 +1,1 @@
+A combination of Urllib and Beautiful Soup to scrape laptop with their prices on Jumia
